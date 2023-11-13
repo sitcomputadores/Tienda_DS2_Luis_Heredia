@@ -17,3 +17,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     cambiarTextoBtn.addEventListener('click', function () {
         textoFinal.innerText = '2023 nuevo footer. Todos los derechos reservados.';
+        /* Estilos para la imagen enmarcada */
+#imagen-enmarcada {
+    border: 2px solid #2196F3; /* Color del borde según Material Design */
+    padding: 10px;
+}
+
+#imagen-enmarcada img {
+    width: 200px; /* Establece el ancho de la imagen */
+    height: 200px; /* Establece la altura de la imagen */
+    border: 1px solid #000; /* Añade un borde a la imagen */
+}
