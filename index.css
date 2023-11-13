@@ -1,12 +1,12 @@
 body {
     font-family: 'Roboto', sans-serif; /* Puedes cambiar la fuente según tus preferencias */
-    background-color: #F8F9FA; /* Color de fondo según Material Design */
-    color: #212529; /* Color de texto según Material Design */
+    background-color: #F8F9FA; /* Color de fondo */
+    color: #212529; /* Color de texto */
     margin: 0;
 }
 /* Estilos para la imagen enmarcada */
 #imagen-enmarcada {
-    border: 2px solid #2196F3; /* Color del borde según Material Design */
+    border: 2px solid #2196F3; /* Color del borde según */
     padding: 10px;
 }
 
