@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const textoFinal = document.querySelector('footer p');
 
     cambiarColorBtn.addEventListener('click', function () {
-        document.body.style.backgroundColor = '#FFC107'; // Cambia el color de fondo al amarillo de Material Design
+        document.body.style.backgroundColor = '#FFC107'; // Cambia el color de fondo 
     });
 
     cambiarTamanoBtn.addEventListener('click', function () {
