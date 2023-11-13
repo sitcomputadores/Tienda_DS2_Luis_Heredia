@@ -6,7 +6,7 @@ body {
 }
 /* Estilos para la imagen enmarcada */
 #imagen-enmarcada {
-    border: 2px solid #2196F3; /* Color del borde según */
+    border: 2px solid #2196F3; /* Color del borde */
     padding: 10px;
 }
 
@@ -17,8 +17,8 @@ body {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #607D8B; /* Color de fondo según Material Design */
-    color: #FFFFFF; /* Color de texto según Material Design */
+    background-color: #607D8B; /* Color de fondo*/
+    color: #FFFFFF; /* Color de texto */
     text-align: center;
     padding: 10px;
 }
@@ -27,7 +27,7 @@ footer {
 
  /* Estilos para la imagen enmarcada */
 #imagen-enmarcada {
-    border: 2px solid #2196F3; /* Color del borde según Material Design */
+    border: 2px solid #2196F3; /* Color del borde*/
     padding: 10px;
 }
 
